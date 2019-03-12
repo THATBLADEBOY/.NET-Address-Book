@@ -1,0 +1,11 @@
+/Users/Blade/Desktop/backend-workspace/addressbook/bin/Debug/netcoreapp2.2/addressbook.deps.json
+/Users/Blade/Desktop/backend-workspace/addressbook/bin/Debug/netcoreapp2.2/addressbook.runtimeconfig.json
+/Users/Blade/Desktop/backend-workspace/addressbook/bin/Debug/netcoreapp2.2/addressbook.runtimeconfig.dev.json
+/Users/Blade/Desktop/backend-workspace/addressbook/bin/Debug/netcoreapp2.2/addressbook.dll
+/Users/Blade/Desktop/backend-workspace/addressbook/bin/Debug/netcoreapp2.2/addressbook.pdb
+/Users/Blade/Desktop/backend-workspace/addressbook/obj/Debug/netcoreapp2.2/addressbook.csprojAssemblyReference.cache
+/Users/Blade/Desktop/backend-workspace/addressbook/obj/Debug/netcoreapp2.2/addressbook.csproj.CoreCompileInputs.cache
+/Users/Blade/Desktop/backend-workspace/addressbook/obj/Debug/netcoreapp2.2/addressbook.AssemblyInfoInputs.cache
+/Users/Blade/Desktop/backend-workspace/addressbook/obj/Debug/netcoreapp2.2/addressbook.AssemblyInfo.cs
+/Users/Blade/Desktop/backend-workspace/addressbook/obj/Debug/netcoreapp2.2/addressbook.dll
+/Users/Blade/Desktop/backend-workspace/addressbook/obj/Debug/netcoreapp2.2/addressbook.pdb
